@@ -7,6 +7,11 @@ using namespace std;
 Cat::Cat()
 {
 	cout << "A Cat is born!" << endl;
+
+
+
+
+
 }
 Cat::~Cat()
 {
